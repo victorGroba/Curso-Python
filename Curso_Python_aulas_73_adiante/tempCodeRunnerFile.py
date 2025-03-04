@@ -1,0 +1,1 @@
+O indice -1 sempre vai ser o ultimo item da minha lista
